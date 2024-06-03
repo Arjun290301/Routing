@@ -5,10 +5,10 @@ export const fullStackDevelopment2 =
   "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-2048x1072.webp";
 
 export const fullStackDevelopment3 =
-  "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png";
+  "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.webp";
 
 export const fullStackDevelopment4 =
-  "https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png";
+  "https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.webp";
 
 export const fullStackDevelopment5 =
   "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png";
@@ -52,7 +52,7 @@ export const deveops2 = "https://www.guvi.in/blog/wp-content/uploads/2023/07/fea
 
 export const deveops3 = "https://www.guvi.in/blog/wp-content/uploads/2023/08/Featured-image-Best-Way-to-Learn-DevOps-2048x1072.webp"
 
-export const deveops4 =  "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-Product-Based-Companies-for-DevOps-Engineers-in-India.webp"
+export const deveops4 = "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Top-Product-Based-Companies-for-DevOps-Engineers-in-India.webp"
 
 export const deveops5 = "https://www.guvi.in/blog/wp-content/uploads/2023/05/2202.i402.018.S.m004.c13.Devops-engineer-flat-composition-2048x1575.jpg"
 

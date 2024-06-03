@@ -6,6 +6,7 @@ import FullStackDevelopment from "./component/FullStackDevelopment";
 import DataScience from "./component/DataScience";
 import CyberSecurity from "./component/CyberSecurity";
 import Carrer from "./component/Carrer";
+
 import {
   bestFullStackDevelopment,
   fullStackDevelopment2,
