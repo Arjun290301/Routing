@@ -74,23 +74,12 @@ function App() {
       image: deveops1,
     },
 
-    {
-      id: 20,
-      title: "9 Best YouTube Channels to Learn DevOps from Scratch",
-      image: deveops2,
-    },
 
     {
       id: 22,
       title: "Top 16 Product-Based Companies for DevOps Engineers in India",
       image: deveops4,
     },
-
-    {
-      id: 23,
-      title: "As a Software Engineer, How Do I Shift My Career to DevOps?",
-      image: deveops5,
-    }
   ];
   const fullStackDevelopment = [
 
