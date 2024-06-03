@@ -32,7 +32,7 @@ import {
   deveops4,
   deveops5,
   deveops6,
-} from "./assets/image";
+} from "../public/assets/image";
 
 function App() {
   const AllData = [
