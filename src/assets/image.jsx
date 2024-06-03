@@ -5,10 +5,10 @@ export const fullStackDevelopment2 =
   "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-2048x1072.webp";
 
 export const fullStackDevelopment3 =
-  "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.webp";
+  "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png";
 
 export const fullStackDevelopment4 =
-  "https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.webp";
+  "https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png";
 
 export const fullStackDevelopment5 =
   "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png";

@@ -39,7 +39,7 @@ function App() {
     {
       id: 1,
       title: "Best Full-Stack Development Project Ideas in 2024",
-      image: bestFullStackDevelopment,
+      image: bestFullStackDevelopment
     },
 
     {
